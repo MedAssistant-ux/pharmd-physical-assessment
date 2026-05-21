@@ -16,8 +16,8 @@ from mutagen.mp3 import MP3
 
 ROOT = Path(__file__).resolve().parent.parent
 TRANSCRIPTS = ROOT / "transcripts"
-AUDIO = ROOT / "audio"
 DOCS = ROOT / "docs"
+AUDIO = DOCS / "audio"
 EP_DIR = DOCS / "episodes"
 
 SHOW_TITLE = "PharmD Physical Assessment Audio Course"

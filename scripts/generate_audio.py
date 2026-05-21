@@ -18,7 +18,7 @@ import edge_tts
 
 ROOT = Path(__file__).resolve().parent.parent
 TRANSCRIPTS = ROOT / "transcripts"
-AUDIO = ROOT / "audio"
+AUDIO = ROOT / "docs" / "audio"
 VOICE = "en-US-AriaNeural"
 RATE = "-5%"   # slightly slower than default for clinical content
 PITCH = "+0Hz"
