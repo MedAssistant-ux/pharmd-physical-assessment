@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>PharmD Physical Assessment Audio Course</title>
+    <link>https://medassistant-ux.github.io/pharmd-physical-assessment</link>
+    <language>en-us</language>
+    <description>Hands-free study course for Physical Assessment for Pharmacist Clinicians. Each episode covers learning objectives, core content, drug-related pearls, red flags, and an audio quiz with pause-and-answer pacing.</description>
+    <itunes:author>Joshua Belcher</itunes:author>
+    <itunes:summary>Hands-free study course for Physical Assessment for Pharmacist Clinicians. Each episode covers learning objectives, core content, drug-related pearls, red flags, and an audio quiz with pause-and-answer pacing.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>Joshua Belcher</itunes:name>
+      <itunes:email>joshua.belcher18@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Education"/>
+    <itunes:image href="https://medassistant-ux.github.io/pharmd-physical-assessment/cover.png"/>
+    <lastBuildDate>Thu, 21 May 2026 02:15:11 +0000</lastBuildDate>
+    <item>
+      <title>Ep 01: Foundations of Pharmacist-Led Physical Assessment</title>
+      <description>Clinical reasoning, scope of practice, the four exam techniques, and the SOAP note. Your foundation for everything that follows.</description>
+      <enclosure url="https://medassistant-ux.github.io/pharmd-physical-assessment/audio/01-foundations.mp3" length="12853773" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://medassistant-ux.github.io/pharmd-physical-assessment/audio/01-foundations.mp3</guid>
+      <pubDate>Thu, 23 Apr 2026 02:15:11 +0000</pubDate>
+      <itunes:author>Joshua Belcher</itunes:author>
+      <itunes:duration>00:17:51</itunes:duration>
+      <itunes:episode>01</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Ep 02: Vital Signs and the General Survey</title>
+      <description>Blood pressure technique, orthostatic measurements, heart rate, respiratory rate, pulse oximetry, temperature, pain, and the thirty-second general survey.</description>
+      <enclosure url="https://medassistant-ux.github.io/pharmd-physical-assessment/audio/02-vital-signs.mp3" length="14125869" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://medassistant-ux.github.io/pharmd-physical-assessment/audio/02-vital-signs.mp3</guid>
+      <pubDate>Sat, 25 Apr 2026 02:15:11 +0000</pubDate>
+      <itunes:author>Joshua Belcher</itunes:author>
+      <itunes:duration>00:19:37</itunes:duration>
+      <itunes:episode>02</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Ep 03: Skin, Hair, and Nails: The Adverse Drug Reaction Detector</title>
+      <description>Lesion morphology, drug eruption patterns, SJS/TEN versus DRESS versus AGEP, hair loss patterns, and nail findings that signal systemic disease.</description>
+      <enclosure url="https://medassistant-ux.github.io/pharmd-physical-assessment/audio/03-skin-hair-nails.mp3" length="14304141" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://medassistant-ux.github.io/pharmd-physical-assessment/audio/03-skin-hair-nails.mp3</guid>
+      <pubDate>Mon, 27 Apr 2026 02:15:11 +0000</pubDate>
+      <itunes:author>Joshua Belcher</itunes:author>
+      <itunes:duration>00:19:51</itunes:duration>
+      <itunes:episode>03</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Ep 04: HEENT: Head, Eyes, Ears, Nose, and Throat</title>
+      <description>Pupillary exam, visual acuity, basic fundoscopy, otoscopy, oral and oropharyngeal exam, and thyroid palpation. Drug findings throughout.</description>
+      <enclosure url="https://medassistant-ux.github.io/pharmd-physical-assessment/audio/04-heent.mp3" length="14141421" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://medassistant-ux.github.io/pharmd-physical-assessment/audio/04-heent.mp3</guid>
+      <pubDate>Wed, 29 Apr 2026 02:15:11 +0000</pubDate>
+      <itunes:author>Joshua Belcher</itunes:author>
+      <itunes:duration>00:19:38</itunes:duration>
+      <itunes:episode>04</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Ep 05: The Respiratory Exam</title>
+      <description>Inspection patterns of work of breathing, percussion of the lung fields, the three abnormal breath sounds, and pharmacist-focused exam of the asthmatic and COPD patient.</description>
+      <enclosure url="https://medassistant-ux.github.io/pharmd-physical-assessment/audio/05-respiratory.mp3" length="13155885" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://medassistant-ux.github.io/pharmd-physical-assessment/audio/05-respiratory.mp3</guid>
+      <pubDate>Fri, 01 May 2026 02:15:11 +0000</pubDate>
+      <itunes:author>Joshua Belcher</itunes:author>
+      <itunes:duration>00:18:16</itunes:duration>
+      <itunes:episode>05</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Ep 06: The Cardiovascular Exam</title>
+      <description>Heart sounds S1 through S4, the auscultation areas, the four classic murmurs, jugular venous pressure, edema, and drug-related cardiac findings.</description>
+      <enclosure url="https://medassistant-ux.github.io/pharmd-physical-assessment/audio/06-cardiovascular.mp3" length="14536269" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://medassistant-ux.github.io/pharmd-physical-assessment/audio/06-cardiovascular.mp3</guid>
+      <pubDate>Sun, 03 May 2026 02:15:11 +0000</pubDate>
+      <itunes:author>Joshua Belcher</itunes:author>
+      <itunes:duration>00:20:11</itunes:duration>
+      <itunes:episode>06</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Ep 07: Peripheral Vascular and Lymphatic Assessment</title>
+      <description>Pulses, ankle-brachial index, venous and arterial insufficiency, lymph node patterns, and the exam for DVT in anticoagulation patients.</description>
+      <enclosure url="https://medassistant-ux.github.io/pharmd-physical-assessment/audio/07-peripheral-vascular.mp3" length="9811053" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://medassistant-ux.github.io/pharmd-physical-assessment/audio/07-peripheral-vascular.mp3</guid>
+      <pubDate>Tue, 05 May 2026 02:15:11 +0000</pubDate>
+      <itunes:author>Joshua Belcher</itunes:author>
+      <itunes:duration>00:13:37</itunes:duration>
+      <itunes:episode>07</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Ep 08: The Abdominal Exam</title>
+      <description>Inspection, the auscultation-first sequence, percussion of liver and spleen, palpation patterns, and drug-induced GI findings.</description>
+      <enclosure url="https://medassistant-ux.github.io/pharmd-physical-assessment/audio/08-abdominal.mp3" length="12471597" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://medassistant-ux.github.io/pharmd-physical-assessment/audio/08-abdominal.mp3</guid>
+      <pubDate>Thu, 07 May 2026 02:15:11 +0000</pubDate>
+      <itunes:author>Joshua Belcher</itunes:author>
+      <itunes:duration>00:17:19</itunes:duration>
+      <itunes:episode>08</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Ep 09: The Musculoskeletal Exam</title>
+      <description>Range of motion, joint inspection and palpation, gait analysis, and drug-induced musculoskeletal findings: statin myopathy, fluoroquinolone tendinopathy, and steroid complications.</description>
+      <enclosure url="https://medassistant-ux.github.io/pharmd-physical-assessment/audio/09-musculoskeletal.mp3" length="11389293" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://medassistant-ux.github.io/pharmd-physical-assessment/audio/09-musculoskeletal.mp3</guid>
+      <pubDate>Sat, 09 May 2026 02:15:11 +0000</pubDate>
+      <itunes:author>Joshua Belcher</itunes:author>
+      <itunes:duration>00:15:49</itunes:duration>
+      <itunes:episode>09</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Ep 10: The Neurologic Exam</title>
+      <description>Mental status, cranial nerves I through XII, motor and sensory exam, deep tendon reflexes, coordination, and drug-induced neurologic findings.</description>
+      <enclosure url="https://medassistant-ux.github.io/pharmd-physical-assessment/audio/10-neurologic.mp3" length="13072077" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://medassistant-ux.github.io/pharmd-physical-assessment/audio/10-neurologic.mp3</guid>
+      <pubDate>Mon, 11 May 2026 02:15:11 +0000</pubDate>
+      <itunes:author>Joshua Belcher</itunes:author>
+      <itunes:duration>00:18:09</itunes:duration>
+      <itunes:episode>10</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Ep 11: Endocrine Physical Findings</title>
+      <description>Thyroid exam, diabetes-related physical findings including the diabetic foot exam, signs of Cushing&#x27;s syndrome and adrenal insufficiency, and drug-induced endocrine syndromes.</description>
+      <enclosure url="https://medassistant-ux.github.io/pharmd-physical-assessment/audio/11-endocrine.mp3" length="11827341" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://medassistant-ux.github.io/pharmd-physical-assessment/audio/11-endocrine.mp3</guid>
+      <pubDate>Wed, 13 May 2026 02:15:11 +0000</pubDate>
+      <itunes:author>Joshua Belcher</itunes:author>
+      <itunes:duration>00:16:25</itunes:duration>
+      <itunes:episode>11</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Ep 12: Genitourinary Considerations for Pharmacists</title>
+      <description>Costovertebral angle tenderness, bladder assessment, prostate-relevant symptom review, BPH and incontinence considerations, and drug-induced urinary findings.</description>
+      <enclosure url="https://medassistant-ux.github.io/pharmd-physical-assessment/audio/12-genitourinary.mp3" length="9658413" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://medassistant-ux.github.io/pharmd-physical-assessment/audio/12-genitourinary.mp3</guid>
+      <pubDate>Fri, 15 May 2026 02:15:11 +0000</pubDate>
+      <itunes:author>Joshua Belcher</itunes:author>
+      <itunes:duration>00:13:24</itunes:duration>
+      <itunes:episode>12</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Ep 13: Geriatric and Pediatric Assessment Variations</title>
+      <description>Frailty assessment, polypharmacy red flags, falls evaluation, pediatric vital ranges, growth charts, and developmental milestones relevant to pharmacist practice.</description>
+      <enclosure url="https://medassistant-ux.github.io/pharmd-physical-assessment/audio/13-geriatric-pediatric.mp3" length="11546829" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://medassistant-ux.github.io/pharmd-physical-assessment/audio/13-geriatric-pediatric.mp3</guid>
+      <pubDate>Sun, 17 May 2026 02:15:11 +0000</pubDate>
+      <itunes:author>Joshua Belcher</itunes:author>
+      <itunes:duration>00:16:02</itunes:duration>
+      <itunes:episode>13</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Ep 14: Integration and Board-Style Review</title>
+      <description>Focused assessment templates for common ambulatory pharmacist visits, plus 20 board-style review questions read aloud with rationales.</description>
+      <enclosure url="https://medassistant-ux.github.io/pharmd-physical-assessment/audio/14-integration-board-review.mp3" length="12942765" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://medassistant-ux.github.io/pharmd-physical-assessment/audio/14-integration-board-review.mp3</guid>
+      <pubDate>Tue, 19 May 2026 02:15:11 +0000</pubDate>
+      <itunes:author>Joshua Belcher</itunes:author>
+      <itunes:duration>00:17:58</itunes:duration>
+      <itunes:episode>14</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
